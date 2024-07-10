@@ -10,6 +10,7 @@ This script demonstrates how to simulate bipedal robots.
 
     # Usage
     ./isaaclab.sh -p source/standalone/demos/bipeds.py
+    isaaclab -p source/standalone/demos/bipeds.py
 
 """
 

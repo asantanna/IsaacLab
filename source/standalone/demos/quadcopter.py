@@ -6,6 +6,11 @@
 """
 This script demonstrates how to simulate a quadcopter.
 
+.. code-block:: bash
+
+    # Usage
+    isaaclab.bat -p source/standalone/demos/quadcopter.py
+
 """
 
 """Launch Isaac Sim Simulator first."""

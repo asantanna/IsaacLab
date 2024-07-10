@@ -10,6 +10,7 @@ This script demonstrates different legged robots.
 
     # Usage
     ./isaaclab.sh -p source/standalone/demos/quadrupeds.py
+    isaaclab.bat -p source/standalone/demos/quadrupeds.py
 
 """
 
